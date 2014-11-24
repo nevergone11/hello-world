@@ -2,10 +2,10 @@
  * Copyright(C) 2014 nevergone. All rights reserved.
  */
 /*
- * hello-world.c
+ * ini_dconf.c
  * Original Author:  xing8788@gmail.com, 2014-11-22
  *
- * Just printf a log
+ * Parser ini format config file
  *
  * History
  */
