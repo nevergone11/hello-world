@@ -1,11 +1,11 @@
 /*
- * Copyright(C) 2014 nevergone. All rights reserved.
+ * Copyright(C) 2014 nevergone11. All rights reserved.
  */
 /*
- * ini_dconf.c
+ * hello-world.c
  * Original Author:  xing8788@gmail.com, 2014-11-22
  *
- * Parser ini format config file
+ * Print hell world
  *
  * History
  */
